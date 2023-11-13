@@ -35,7 +35,7 @@ Các rào cản, thử thách tượng trưng cho sự khó khăn, vất vả tr
 __6.2 Ý nghĩa mẹ chú Báo Hồng đứng đợi ở vạch đích__
 
 "Mẹ là tần tảo gió sương \
-Mẹ là bến đợi cuối đường con đi" \
+Mẹ là bến đợi cuối đường con đi" 
 
 Cuối con đường là hình ảnh người mẹ đầy yêu thương của chú Báo Hồng, mẹ chú vẫn ở đó đợi chú, vẫn dang rộng cánh tay yêu thương đón chú vào lòng. Đó là tình yêu bao la của mẹ dành cho chú Báo Hồng, dù chú có làm gì sai đi chăng nữa, nhưng chỉ cần chú biết nhận lỗi thì mẹ chú sẵn sàng tha thứ và yêu thương chú vô điều kiện. Hình ảnh người mẹ hiện lên vừa bao la tình cảm, nhưng cũng vừa nghiêm khắc, gia giáo. Dù yêu thương con là thế nhưng để con khôn lớn và trưởng thành, mẹ sẵn sàng để con tự mình vượt qua những chông gai, thử thách, để con tự mình đối mặt với những khó khăn, vất vả. Mẹ vẫn đứng đằng xa để trông người con của mẹ, chờ đón con mẹ khôn lớn, trưởng thành quay về.
 
@@ -44,6 +44,7 @@ __6.3 Ý nghĩa chú Báo Hồng__
 Chú Báo Hồng tượng trưng cho tất cả bạn trẻ ngoài kia, ham chơi, cá tính nhưng trong tâm vẫn luôn là đứa trẻ tốt. Chú sẵn sàng nhận ra lỗi lầm của mình và sửa đổi chúng, đón nhận những bài học mà cuộc sống đã gửi đến cho chú. Hình ảnh chú Báo Hồng băng băng vượt qua những rào cản, thách thức thể hiện sự mãnh liệt, quyết tâm, dũng cảm của chú Báo, đồng thời cũng nói lên tấm lòng của chú với mẹ của mình: hối lỗi, biết ơn, trân trọng tình yêu thương, quan tâm, chăm sóc mà mẹ của chú đã dành tặng cho chú.
 
 __7. Thông điệp, lời nhắn của Pink Panthers muốn gửi gắm qua trò chơi__
+
 Tình mẫu tử là tình cảm thiêng liêng, cao quý nhất trên đời. Mẹ là người đã sinh ra, nuôi dưỡng và dạy dỗ ta nên người. Vì vậy, mỗi người con cần phải biết yêu thương, trân trọng và quan tâm đến mẹ của mình. Chúng ta cần thực hiện những điều dưới đây:
 
 - Hãy luôn yêu thương và kính trọng mẹ: Mẹ là người đã mang nặng đẻ đau, nuôi ta khôn lớn. Vì vậy, chúng ta cần phải luôn yêu thương và kính trọng mẹ. Hãy thể hiện tình yêu thương của mình bằng những hành động cụ thể như: giúp đỡ mẹ việc nhà, quan tâm đến sức khỏe của mẹ,...
