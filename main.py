@@ -3,24 +3,29 @@ import spritesheet
 pygame.init()
 from sys import exit
 clock = pygame.time.Clock()
+
 #Tieu de va icon
 pygame.display.set_caption('Bao hong tim me')
 icon = pygame.image.load(r'assets\icon\icongame.png')
 pygame.display.set_icon(icon)
+
 #Cua so game
 display_screen = pygame.display.set_mode((1400, 700))
+
 #Load hinh anh
 bg = pygame.image.load(r'assets\background\background1.png')
 obstacle = pygame.image.load(r'assets\obstacle\obstacle.png')
 char = pygame.image.load(r'assets\player\pinkpanther.png')
 win_bg = pygame.image.load(r'assets\background\wingame.jpg')
-#Load am tham
+
+#Load am thanh
 over_sound = pygame.mixer.Sound(r'assets\audio\die.mp3')
 bg_sound = pygame.mixer.Sound(r'assets\audio\background.mp3')
 jump_sound = pygame.mixer.Sound(r'assets\audio\jump.mp3')
 win_sound = pygame.mixer.Sound(r'assets\audio\endgame-credit.mp3')
 sprite_sheet = spritesheet.SpriteSheet(char)
 TRANSPARENT = (0, 0, 0)
+
 #Khoi tao
 score, high_score = 0, 0
 bg_x, bg_y = 0, 0
@@ -34,6 +39,7 @@ high_score = 0
 bg_sound.set_volume(0.1)
 over_sound.set_volume(0.1)
 jump_sound.set_volume(1.0)
+
 #Khoi tao chuyen dong cua nhan vat
 animation_list = []
 animation_steps = 6
@@ -42,11 +48,13 @@ animation_cooldown = 150
 frame = 0
 
 for x in range(animation_steps):
-    animation_list.append(sprite_sheet.get_image(x, 84, 84, 0.5, TRANSPARENT))
+    animation_list.append(sprite_sheet.get_image(x, 84, 84, 0.9, TRANSPARENT))
+    
 #Ktra xem co con song hay khong
 isAlive = True
 #Kiem tra xem da win hay chua
 isWin = False
+
 #Ham xu ly va cham
 def ktravacham():
     if char_box.colliderect(obs_box):
@@ -55,6 +63,7 @@ def ktravacham():
         return False
     return True
 custom_font = pygame.font.Font(r"assets\font\VCR_OSD_MONO_1.001.ttf", 48)    
+
 #Ham tinh diem
 def display_Score():
     if isWin == False:
@@ -154,6 +163,5 @@ while gameRunning:
             score = 0
             x_move = 15
             display_Score()
-
             
     pygame.display.update()
