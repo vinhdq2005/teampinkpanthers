@@ -24,6 +24,14 @@ Lấy cốt truyện từ sự tích, trò chơi kể về chú Báo Hồng mả
 
 __5. Cách chơi:__
 
+__5.1 Cách cài đặt:__
+
+- Cài đặt pygame (pip install pygame).
+- Cài đặt mediapipe, mở terminal và gõ lệnh lần lượt (pip install opencv-python) -> (pip install mediapipe) -> (pip install numpy) -> (pip install pynput).
+- Mở 2 của sổ vscode độc lập rồi chạy game và mediapipe.
+  
+__5.1 Cách cài đặt:__
+
 Người chơi phải nhảy qua các chướng ngại vật để về được nơi mẹ chú Báo Hồng đang ở. Người chơi sử dụng cử chỉ tay (xòe bàn tay) để nhảy lên và nắm bàn tay lại để chạy bình thường. Ngoài ra người chơi có thế bấm phím space trên bàn phím để nhảy thay vì dùng cử chỉ tay.
 
 __6. Ý nghĩa các nhân vật- đối tượng trong game:__
