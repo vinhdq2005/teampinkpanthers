@@ -24,7 +24,7 @@ Lấy cốt truyện từ sự tích, trò chơi kể về chú Báo Hồng mả
 
 __5. Cách chơi:__
 
-Người chơi phải nhảy qua các chướng ngại vật để về được nơi mẹ chú Báo Hồng đang ở, đồng thời phải chạy để những con quỷ đằng sau chú Báo Hồng không thể bắt kịp chú. Người chơi sử dụng cử chỉ tay để nhảy lên và hạ tay là chạy bình thường.
+Người chơi phải nhảy qua các chướng ngại vật để về được nơi mẹ chú Báo Hồng đang ở. Người chơi sử dụng cử chỉ tay (xòe bàn tay) để nhảy lên và nắm bàn tay lại để chạy bình thường. Ngoài ra người chơi có thế bấm phím space trên bàn phím để nhảy thay vì dùng cử chỉ tay.
 
 __6. Ý nghĩa các nhân vật- đối tượng trong game:__
 
