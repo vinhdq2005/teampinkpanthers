@@ -163,5 +163,6 @@ while gameRunning:
             score = 0
             x_move = 15
             display_Score()
+            bg = pygame.image.load(r'assets\background\background1.png')
             
     pygame.display.update()
